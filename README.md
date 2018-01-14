@@ -4,11 +4,14 @@ Why? It is like playing D&D in real life and being the dungeon master.
 ![alt text](https://i1.wp.com/www.neuronphaser.com/wp-content/uploads/2015/09/grumpy-cat-as-dungeonmaster.jpg)
 
 # YTVideos
-* https://www.youtube.com/watch?v=TG0qRDrUPpA
-* https://www.youtube.com/watch?v=LDDRn2f9fUk
-* https://www.youtube.com/watch?v=_PlRmlYEHRo
-* https://www.youtube.com/watch?v=54bo1qaHAfk
-* https://www.youtube.com/watch?v=Hh49BXmHxX8
+* https://www.youtube.com/watch?v=TG0qRDrUPpA "Writing a programming language - the Lexer"
+* https://www.youtube.com/watch?v=LDDRn2f9fUk "Make Your Own Programming Language - Part 1 - Lexer"
+* https://www.youtube.com/watch?v=_PlRmlYEHRo "How do I create a Programming Language? #1"
+* https://www.youtube.com/watch?v=54bo1qaHAfk "Part 01: Tutorial on lex/yacc"
+* https://www.youtube.com/watch?v=Hh49BXmHxX8 "Make your Own Calculator in Python - Part 1 - Lexer"
+* https://youtu.be/a5-WaD8VV38 "A Brief Introduction to LLVM"
+* https://www.youtube.com/watch?v=VqCkCDFLSsc "The Clang AST - a TuroriaL"
+* https://www.youtube.com/watch?v=yorld-WSOeU "LLVM Developers’ Meeting:"Reducing Code Size Using Outlining""
 
 # Tutorials
 * https://llvm.org/docs/tutorial/LangImpl01.html
